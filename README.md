@@ -153,23 +153,11 @@
 // redux-saga                          完成中间件的异步请求
 {
   "dependencies": {
-    "@antv/data-set": "^0.9.6",
-    "antd": "^3.9.2",
-    "babel-plugin-import": "^1.9.1",
-    "bizcharts": "^3.2.2",
-    "promise-polyfill": "^8.1.0",
-    "puppeteer-core": "^1.8.0",
-    "react": "^16.5.1",
-    "react-app-rewire-less": "^2.1.3",
-    "react-app-rewired": "^1.6.2",
-    "react-dom": "^16.5.1",
-    "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.5",
-    "redux": "^4.0.0",
-    "redux-saga": "^0.16.0",
-    "whatwg-fetch": "^3.0.0"
-  }
+    "register-service-worker": "^1.5.2",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
 }
 ```
 
