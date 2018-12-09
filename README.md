@@ -98,9 +98,9 @@
 
 ```utf-8
   经过对vue-admin框架的学习。独自整理出了下面这样一个网站工作流程：
-    1.CVV架构。 cords vitae views （数据绑定、模块流程、展示操作）（MVVM）
-    2.cords三个模块：answer(前端数据POST请求)、api(后台数据GET请求)、store(vuex本地数据) 其他mock(数据模拟)
-    3.vitae三个模块：router(路由表)、permit(权限表)、session(会话表)
+    1.MVV架构。 model vitae views （数据绑定、模块流程、展示操作）（MVVM）
+    2.model三个模块：answer(前端数据POST请求)、api(后台数据GET请求)、store(vuex本地数据) 其他mock(数据模拟)
+    3.vitae三个模块：routes(动态路由表)、permit(权限表)、session(会话表)
     4.views两个模块：apply(组件应用)、book(订装页面)
     5.网站流程：
       > main.js程序入口，挂载filter,vue-router,vuex,element,logs组件到vue上。
